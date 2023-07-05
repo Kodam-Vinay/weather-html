@@ -1,0 +1,15 @@
+{
+  
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "main": "main.js",
+  "author": "vinay",
+  "license": "ISC",
+  "description": "this is an project for weather app",
+  "dependencies": {
+    "requests": "^0.3.0"
+  }
+}
